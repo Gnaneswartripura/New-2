@@ -78,7 +78,8 @@
             <plugin>
               <artifactId>maven-pmd-plugin</artifactId>
             </plugin>
-
+            # plugins
+                   
             <plugin>
               <artifactId>maven-surefire-report-plugin</artifactId>
             </plugin>
